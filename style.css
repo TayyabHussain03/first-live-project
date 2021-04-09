@@ -116,7 +116,7 @@ li a {
 }
 
 .reason-section {
-    margin-top: 70px;
+    margin-top: 100px;
 }
 
 .card-sec {
@@ -196,4 +196,33 @@ li a {
     .sec-3 {
         width: 100%;
     }
+}
+
+.burger-heading {
+    margin: 0px;
+    font-size: 28px;
+    font-family: radikal;
+    line-height: 37px;
+    color: #2c3722;
+}
+
+.burger-para {
+    margin: 0px;
+}
+
+.burger-btn {
+    margin-left: 0px;
+}
+
+.burger-img {
+    background-color: hsl(0, 4%, 95%);
+    border-radius: 5px;
+}
+
+.history-heading {
+    color: rgb(238, 222, 4);
+}
+
+.burger-area {
+    margin-top: 150px;
 }
