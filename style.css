@@ -72,6 +72,30 @@ li a {
     margin-left: 7px;
 }
 
-.row{
-    margin-top: 30px;
+.chef-heading{
+    margin: 0px;
 }
+
+.chef-para{
+    margin: 0px;
+}
+
+.chef-btn{
+    margin-left: 0px;
+}
+
+.chef-img{
+    background-color: #f1f0f0;
+    border-radius: 5px;
+}
+
+.welcome-heading{
+    color: rgb(233, 220, 37);
+    font-weight: bolder;
+}
+
+.chef-area{
+    margin-top: 100px;
+}
+
+
