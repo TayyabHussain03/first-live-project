@@ -1,0 +1,33 @@
+body {
+    background-color: #f8fbf5;
+    margin-top: 20px;
+}
+
+@font-face {
+    font-family: aceh;
+    src: url(fonts/aceh/Aceh-Light.ttf);
+}
+
+@font-face {
+    font-family: bergen;
+    src: url(fonts/elements-bergen-sans-QERQE7-2017-02-16/BergenSans-Regular.otf);
+}
+
+@font-face {
+    font-family: radikal;
+    src: url(fonts/OnlineWebFonts_COM_2daeb83fd1abb3e70f25cd194c032d21/Radikal\ Bold.ttf);
+}
+
+.icon-bar{
+    background-image: linear-gradient(to right, #89c445, #87c03b, #86bd30, #84b923, #83b512);
+}
+
+li a {
+    color: #8d8d8d;
+    font-family: bergen;
+    font-size: 16px;
+}
+
+.li>a :hover {
+    color: #2c3722;
+}
